@@ -6,7 +6,9 @@
     box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.1);
     overflow: hidden; 
     /* background-color: rgba(222, 205, 214, 0.8); */
-    height: 1000px;
+    height: 2000px;
+    display: flex;
+    
 }
 body {
   margin: 0;
@@ -18,4 +20,7 @@ body {
         padding-bottom: 200px;
         padding-top: 200px;
 }
-        */
+         */
+.row {
+    display: fixed;
+}
