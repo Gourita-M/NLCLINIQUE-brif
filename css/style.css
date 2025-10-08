@@ -121,7 +121,7 @@ a:hover {
   background: url("../images/counter/background4.png") no-repeat; }
 
 .uni-background-4 {
-  background: url("../images/services/background3.png") no-repeat; }
+  background-color: red;}
 
 .uni-background-5 {
   background: url("../images/home1/banner/background.jpg") no-repeat; }
