@@ -114,14 +114,20 @@ a:hover {
 .uni-background-1 {
   background: url("../images/banner/background1.png"); }
 
+ /* backgroup dyal Doctors */
+
 .uni-background-2 {
-  background: url("../images/icons_box/background2.png") no-repeat; }
+  background-color: rgba(222, 205, 214, 0.8)} 
+
+                           
 
 .uni-background-3 {
-  background: url("../images/counter/background4.png") no-repeat; }
+  background-color: rgba(222, 205, 214, 0.8); }
+
+
 
 .uni-background-4 {
-  background-color: red;}
+  background: url("../images/services/background3.png") no-repeat; }
 
 .uni-background-5 {
   background: url("../images/home1/banner/background.jpg") no-repeat; }
@@ -725,7 +731,7 @@ a:hover {
 .footer-default {
   position: relative; }
   .footer-default .footer-main-content {
-    background-color: #2d3840;
+    background-color: rgba(222, 205, 214, 0.8);
     padding: 80px 0; }
     @media screen and (max-width: 991px) {
       .footer-default .footer-main-content .footer-main-content-element {
@@ -1257,7 +1263,8 @@ a:hover {
 
 /*DEPARTMENT*/
 .uni-hơm-1-department {
-  padding-top: 100px; }
+  padding-top: 100px;
+  background-color: rgba(222, 205, 214, 0.8); }
   .uni-hơm-1-department .uni-home-title {
     padding-bottom: 130px; }
 
@@ -1270,7 +1277,8 @@ a:hover {
 
 /*OUR SERVICES*/
 .uni-home-our-services .uni-shortcode-icons-box-5 {
-  padding: 100px 0; }
+  padding: 100px 0; 
+  background-color: rgba(222, 205, 214, 0.8);}
 
 .uni-home-our-services .btn-all-services {
   text-align: center; }
@@ -1304,7 +1312,8 @@ a:hover {
 
 /*FAQ'S and LATEST POST*/
 .uni-home-faq-latest-post {
-  padding: 100px 0; }
+  padding: 100px 0; 
+  background-color: rgba(222, 205, 214, 0.8);      }
   .uni-home-faq-latest-post .uni-home-title {
     padding-bottom: 40px; }
     .uni-home-faq-latest-post .uni-home-title h3 {
@@ -1366,7 +1375,8 @@ a:hover {
 .uni-home-opening-book {
   margin-top: -100px;
   position: relative;
-  z-index: 999; }
+  z-index: 999; 
+  background-color: rgba(222, 205, 214, 0.8);   }
   @media screen and (max-width: 991px) {
     .uni-home-opening-book {
       margin-top: 0; } }
