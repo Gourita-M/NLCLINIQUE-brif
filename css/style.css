@@ -117,12 +117,12 @@ a:hover {
  /* backgroup dyal Doctors */
 
 .uni-background-2 {
-  background-color: rgba(222, 205, 214, 0.8)} 
+ background-color: rgba(140, 158, 238, 0.103); }
 
                            
 
 .uni-background-3 {
-  background-color: rgba(222, 205, 214, 0.8); }
+  background-color: rgba(140, 158, 238, 0.103); }
 
 
 
@@ -146,7 +146,8 @@ a:hover {
       visibility: hidden; } }
 
 .uni-medicare-header {
-  background-color: #ffffff;
+  background: #020024;
+background: linear-gradient(90deg, rgba(2, 0, 36, 0.36) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
   -webkit-box-shadow: inset -0px -3px 0 0 #3f97da;
   box-shadow: inset -0px -3px 0 0 #3f97da; }
 
@@ -237,7 +238,7 @@ a:hover {
     font-stretch: normal;
     letter-spacing: normal;
     text-align: right;
-    color: #333;
+    color: #ffffff;
     padding: 43px 20px;
     text-decoration: none;
     text-transform: uppercase;
@@ -613,7 +614,7 @@ a:hover {
       line-height: 44px;
       letter-spacing: normal;
       text-align: center;
-      color: #333333;
+      color: #fdfdfd;
       padding: 0 20px;
       text-transform: uppercase;
       border: solid 2px #3f97da;
@@ -731,7 +732,7 @@ a:hover {
 .footer-default {
   position: relative; }
   .footer-default .footer-main-content {
-    background-color: rgba(222, 205, 214, 0.8);
+    background-color: rgba(140, 158, 238, 0.103);
     padding: 80px 0; }
     @media screen and (max-width: 991px) {
       .footer-default .footer-main-content .footer-main-content-element {
@@ -1264,13 +1265,13 @@ a:hover {
 /*DEPARTMENT*/
 .uni-hơm-1-department {
   padding-top: 100px;
-  background-color: rgba(222, 205, 214, 0.8); }
+  background-color: rgba(140, 158, 238, 0.103); }
   .uni-hơm-1-department .uni-home-title {
     padding-bottom: 130px; }
 
 /*OUR DOCTOR*/
 .uni-home-1-our-doctor .uni-home-title h3 {
-  color: #FFF; }
+  color: #000000; }
 
 .uni-home-1-our-doctor .uni-home-title .uni-underline {
   background: url(../images/services/underline.png) no-repeat; }
@@ -1278,7 +1279,7 @@ a:hover {
 /*OUR SERVICES*/
 .uni-home-our-services .uni-shortcode-icons-box-5 {
   padding: 100px 0; 
-  background-color: rgba(222, 205, 214, 0.8);}
+  background-color: rgba(140, 158, 238, 0.103);}
 
 .uni-home-our-services .btn-all-services {
   text-align: center; }
@@ -1305,7 +1306,7 @@ a:hover {
 
 /*CUSTOMERS SAY*/
 .uni-home-customers-says .uni-home-title h3 {
-  color: #FFF; }
+  color: #000000; }
 
 .uni-home-customers-says .uni-home-title .uni-underline {
   background: url(../images/services/underline.png) no-repeat; }
@@ -1313,7 +1314,7 @@ a:hover {
 /*FAQ'S and LATEST POST*/
 .uni-home-faq-latest-post {
   padding: 100px 0; 
-  background-color: rgba(222, 205, 214, 0.8);      }
+  background-color: rgba(140, 158, 238, 0.103);      }
   .uni-home-faq-latest-post .uni-home-title {
     padding-bottom: 40px; }
     .uni-home-faq-latest-post .uni-home-title h3 {
@@ -7105,3 +7106,6 @@ a:hover {
   .uni-shortcode-pricing-table-2 .panel-profresinal .panel-footer a {
     background-color: #3f97da;
     color: #fff; }
+.cssmenu ul li a{
+  
+}
